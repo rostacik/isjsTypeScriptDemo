@@ -35,5 +35,11 @@ var is: Is = require("is_js");
 
 use require to load node module from is_js subfolder but cast it to type Is which will give you IntelliSense and you are good to go :)
 
+**Links to some packages and tools used here :**
+- [https://arasatasaygin.github.io/is.js/](https://arasatasaygin.github.io/is.js/) - is.js micro check library,
+- [https://www.npmjs.com/package/tsd](https://www.npmjs.com/package/tsd) - package manager for DefinitelyTyped TypeScript definition files,
+- [http://definitelytyped.org/](http://definitelytyped.org/) - DefinitelyTyped repository with .d.ts files,
+- [https://code.visualstudio.com/](https://code.visualstudio.com/) - Visual Studio Code 
+
 Enjoy,
 Dusan 
